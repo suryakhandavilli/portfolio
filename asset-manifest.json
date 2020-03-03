@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/suryakhandavilli/portfolio.git/static/css/main.c40e6b93.chunk.css",
+    "main.js": "/suryakhandavilli/portfolio.git/static/js/main.e2c9ccec.chunk.js",
+    "main.js.map": "/suryakhandavilli/portfolio.git/static/js/main.e2c9ccec.chunk.js.map",
+    "runtime-main.js": "/suryakhandavilli/portfolio.git/static/js/runtime-main.8a0e5633.js",
+    "runtime-main.js.map": "/suryakhandavilli/portfolio.git/static/js/runtime-main.8a0e5633.js.map",
+    "static/js/2.edcebfa1.chunk.js": "/suryakhandavilli/portfolio.git/static/js/2.edcebfa1.chunk.js",
+    "static/js/2.edcebfa1.chunk.js.map": "/suryakhandavilli/portfolio.git/static/js/2.edcebfa1.chunk.js.map",
+    "index.html": "/suryakhandavilli/portfolio.git/index.html",
+    "precache-manifest.db78f7088cd4ad61eace0d77342b7d6a.js": "/suryakhandavilli/portfolio.git/precache-manifest.db78f7088cd4ad61eace0d77342b7d6a.js",
+    "service-worker.js": "/suryakhandavilli/portfolio.git/service-worker.js",
+    "static/css/main.c40e6b93.chunk.css.map": "/suryakhandavilli/portfolio.git/static/css/main.c40e6b93.chunk.css.map",
+    "static/js/2.edcebfa1.chunk.js.LICENSE": "/suryakhandavilli/portfolio.git/static/js/2.edcebfa1.chunk.js.LICENSE",
+    "static/media/Billgenerator.png": "/suryakhandavilli/portfolio.git/static/media/Billgenerator.5f732fc6.png",
+    "static/media/GoogleTimer.png": "/suryakhandavilli/portfolio.git/static/media/GoogleTimer.8f8e97a0.png",
+    "static/media/Marksrecorder.png": "/suryakhandavilli/portfolio.git/static/media/Marksrecorder.9920b2f9.png",
+    "static/media/OMDB.png": "/suryakhandavilli/portfolio.git/static/media/OMDB.cbb3bf7d.png",
+    "static/media/Todo.png": "/suryakhandavilli/portfolio.git/static/media/Todo.d861c973.png",
+    "static/media/bootstrapimg.svg": "/suryakhandavilli/portfolio.git/static/media/bootstrapimg.71e42b5a.svg",
+    "static/media/css-3.svg": "/suryakhandavilli/portfolio.git/static/media/css-3.d3ad67fa.svg",
+    "static/media/html-5.svg": "/suryakhandavilli/portfolio.git/static/media/html-5.24845c5c.svg",
+    "static/media/javascript.svg": "/suryakhandavilli/portfolio.git/static/media/javascript.87711407.svg",
+    "static/media/jquery.svg": "/suryakhandavilli/portfolio.git/static/media/jquery.8ec9bacf.svg",
+    "static/media/material-ui.svg": "/suryakhandavilli/portfolio.git/static/media/material-ui.ba99aecd.svg",
+    "static/media/react.svg": "/suryakhandavilli/portfolio.git/static/media/react.9a28da9f.svg",
+    "static/media/web_developer.png": "/suryakhandavilli/portfolio.git/static/media/web_developer.e36d17c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a0e5633.js",
+    "static/js/2.edcebfa1.chunk.js",
+    "static/css/main.c40e6b93.chunk.css",
+    "static/js/main.e2c9ccec.chunk.js"
+  ]
+}
